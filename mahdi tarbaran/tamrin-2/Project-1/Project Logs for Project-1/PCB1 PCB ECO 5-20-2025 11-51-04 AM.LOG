@@ -1,0 +1,10 @@
+Change component parameters: Designator = "C1" ("C1"); Footprint = "C_FLM_4X2H7"; UniqueID = "\XYFOEOZR" ("\XYFOEOZR")
+Change component parameters (AddParameter): Name = "ASSEMBLY"; Value = "ASSEMBLY"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DESC"; Value = "DESCRIPTION"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DIST#"; Value = "MOUSER"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANF"; Value = "MANF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANF_P#"; Value = "MANF_PART#"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PARAM"; Value = "20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PARAM2"; Value = "25V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PRICE"; Value = "10= 5$"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "68nF"; VariantName = "[No Variations]"
